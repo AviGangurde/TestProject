@@ -6,6 +6,7 @@ public class Main {
         parrot.name = "pagal";
         parrot.setColor("green");
         parrot.display();
+        //my name is avi
 
     }
 }
